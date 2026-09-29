@@ -1,1 +1,1 @@
-# Pr-ticas-de-Tecnologia-da-Informa-o-e-Comunica-o
+Trabalhos e exercicios sobre PTIC
